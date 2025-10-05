@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello World, I'm JOY6IX1NA(조요나)🤙
 
 <!--
 **joy6ix1na/joy6ix1na** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
