@@ -5,7 +5,7 @@
 ![Tech Architecture](https://img.shields.io/badge/Architecture-HW__&__FW__&__SW__Integration-brightgreen?style=for-the-badge)
 ![AI Infrastructure](https://img.shields.io/badge/AI-On--Device__AI__&__LLM__Optimization-blue?style=for-the-badge&logo=anthropic)
 
-Hello! I am **JODH (Omni Digital Health)**, a cross-functional engineer operating across the entire digital healthcare spectrum—from medical device hardware (HW) design and embedded firmware (FW) to software (SW) platform architecture and On-Device AI infrastructure.
+Hello! I am **JOY6IX1NA(JODH)**, a cross-functional engineer operating across the entire digital healthcare spectrum—from medical device hardware (HW) design and embedded firmware (FW) to software (SW) platform architecture and On-Device AI infrastructure.
 
 I specialize in building end-to-end biomedical pipelines, ensuring complete data integrity from edge sensor .nodes to cloud LLM workflows while radically optimizing infrastructure production costs.
 
