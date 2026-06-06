@@ -1,7 +1,7 @@
 ## Hello World, I'm JOY6IX1NA 👋
 #### JODH | Biomedical Engineer & Omni Healthcare Specialist
 
-![Domain](https://img.shields.io/badge/Domain-Omni__Healthcare-FF6B6B?style=for-the-badge)
+![Domain](https://img.shields.io/badge/Domain-J_Omni_Digital_Healthcare-FF6B6B?style=for-the-badge)
 ![Tech Architecture](https://img.shields.io/badge/Architecture-HW__&__FW__&__SW__Integration-brightgreen?style=for-the-badge)
 ![AI Infrastructure](https://img.shields.io/badge/AI-On--Device__AI__&__LLM__Optimization-blue?style=for-the-badge&logo=anthropic)
 
@@ -30,6 +30,6 @@ I specialize in building end-to-end biomedical pipelines, ensuring complete data
 ---
 
 ### 📫 Connect with Me
-- **Brand:** Omni Digital Health (JODH)
+- **Brand:** J Omni Digital Healthcare (JODH)
 - **GitHub:** [@joy6ix1na](https://github.com/joy6ix1na)
 - *“Connecting Hardware to Cloud AI, Perfecting Omni Healthcare Pipelines.”*
