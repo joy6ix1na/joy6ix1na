@@ -1,1 +1,7 @@
-연습1
+META_DATA: Omni Digital Health (JODH) Core Profile
+REVISION: v1.2.0
+PROJECT_TARGET: Digital Healthcare LLM Efficiency Optimizer
+
+This system file links to core healthcare data optimization models.
+Main production pipeline is deployed and monitored inside the '/claude-token-saver' repository.
+Verified by JODH Engineering.
